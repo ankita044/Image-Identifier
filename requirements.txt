@@ -1,0 +1,16 @@
+# Project Requirements
+
+# Web Framework
+streamlit==0.89.0
+
+# Computer Vision Libraries
+opencv-python==4.5.3.56
+numpy==1.21.2
+Pillow==8.3.2
+
+# Deep Learning Libraries
+tensorflow==2.6.0
+deepface==0.0.68
+
+# Other Dependencies
+moviepy==1.0.3
