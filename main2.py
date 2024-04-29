@@ -123,7 +123,7 @@ def main():
 
     if page == "Image Classifier":
         page1()
-    elif page == "face Emotion identifier":
+    elif page == "Object Detection using video":
         page2()
     elif page == "Page 3":
         page3()
